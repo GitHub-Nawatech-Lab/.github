@@ -1,3 +1,5 @@
+[![banner](https://raw.githubusercontent.com/GitHub-Nawatech-Lab/.github/main/assets/ai-build-day-indonesia-banner.png)](https://msevents.microsoft.com/event?id=3694549383%20)
+
 # Microsoft Build: AI Day
 
 Unleash the power of AI to stay ahead in your career, unlock new opportunities, and deliver more value faster for your organization.
